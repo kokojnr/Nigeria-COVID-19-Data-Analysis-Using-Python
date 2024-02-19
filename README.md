@@ -6,7 +6,7 @@ The project involves collecting, cleaning, analyzing, and visualizing data relat
 
 # Steps:
 # Data Collection:
-Scraped covid data from https://covid19.ncdc.gov.ng/ using beautiful soup, downloaded Human Development Index data from https://globaldatalab.org/shdi/table/shdi/NGA/, loaded external datasets provided, imported daily cases data from John Hopkins Data Repository(https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
+Scraped covid data from https://covid19.ncdc.gov.ng/ or alternatively wikipedia: https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Nigeria using beautiful soup, downloaded Human Development Index data from https://globaldatalab.org/shdi/table/shdi/NGA/, loaded external datasets provided, imported daily cases data from John Hopkins Data Repository(https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 
 #  Data Cleaning and Preprocessing:
 
